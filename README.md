@@ -66,7 +66,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
-<h1 align="center">Hi <img src="https://github.com/YahyaKouzbour/YahyaKouzbour/blob/main/Wave.gif" height="55px" width="55px">, I'm YahyaKouzbour</h1>
+<h1 align="center">Hi <img src="https://github.com/abdeesamadbettal/abdeesamadbettal/blob/main/Wave.gif" height="55px" width="55px">, I'm abdeesamad bettal</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
 Web and mobile Programmer | Web and mobile Designer | Learner | Researcher
@@ -95,12 +95,12 @@ I'm a full stack developer...
 ### Connect with me:
 
 [<img align="left" alt="youcode.ma" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="YahyaKouzbour | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />][facebook]
-[<img align="left" alt="YahyaKouzbour | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="YahyaKouzbour | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="YahyaKouzbour | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][telegram]
-[<img align="left" alt="YahyaKouzbour | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="YahyaKouzbour | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="abdeesamadbettal | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />][facebook]
+[<img align="left" alt="abdeesamadbettal | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="abdeesamadbettal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="abdeesamadbettal | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][telegram]
+[<img align="left" alt="abdeesamadbettal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="abdeesamadbettal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -121,7 +121,7 @@ I'm a full stack developer...
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 <br />
 ### Profile Visitors 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=YahyaKouzbour.visitor-badge&left_color=blue&right_color=yellow)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=abdessamadbettal.visitor-badge&left_color=blue&right_color=yellow)
 <br />
 
 [![YahyaKouzbour github activity graph](https://activity-graph.herokuapp.com/graph?username=abdessamadbettal&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/YahyaKouzbour/github-readme-activity-graph)
