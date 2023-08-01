@@ -39,7 +39,7 @@ Full stack developer with 3+ years of experience of building REST APIs using Lar
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.jami3a.com"><img src="https://img.shields.io/badge/-jami3a.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.abdessamad.me"><img src="https://img.shields.io/badge/-abdessamad.me-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/abdessamadbettal"><img src="https://img.shields.io/badge/Abdessamad%20Bettal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:abdessamadbattal@gmail.com"><img src="https://img.shields.io/badge/-abdessamadbattal@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/abdessamadbettal"><img src="https://img.shields.io/badge/-@abdessamadbettal-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
