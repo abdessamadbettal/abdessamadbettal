@@ -16,10 +16,10 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Vue](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Vue&logoColor=FFA518)&nbsp;
-![Laravel](https://img.shields.io/badge/-C-05122A?style=flat&logo=Laravel&logoColor=A8B9CC)&nbsp;
-![Php](https://img.shields.io/badge/-C++-05122A?style=flat&logo=PHP%2B%2B&logoColor=00599C)&nbsp;
-![Postman)](https://img.shields.io/badge/-R-05122A?style=flat&logo=POSTMAN&logoColor=276DC3)\
+![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=Vue&logoColor=FFA518)&nbsp;
+![Laravel](https://img.shields.io/badge/-LARAVEL-05122A?style=flat&logo=Laravel&logoColor=A8B9CC)&nbsp;
+![Php](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP%2B%2B&logoColor=00599C)&nbsp;
+![Postman)](https://img.shields.io/badge/-POSTMAN-05122A?style=flat&logo=POSTMAN&logoColor=276DC3)\
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
@@ -29,7 +29,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Express](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=Express&logoColor=2C2255)\
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express&logoColor=2C2255)\
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
