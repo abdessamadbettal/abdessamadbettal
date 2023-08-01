@@ -5,6 +5,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
+Full stack developer with 3+ years of experience of building REST APIs using Laravel framework with MySQL database, component-based frameworks/libraries React,Vue.
+
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I have successfully graduated from Youcode - Université Mohammed VI Polytechnique.\
 🌱 &nbsp;I'm on track for learning more about Systems Design, and Cloud Architecture.\
