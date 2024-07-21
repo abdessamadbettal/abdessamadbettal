@@ -18,21 +18,22 @@ Full stack developer with +4 years of experience of building REST APIs using Lar
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=Vue&logoColor=FFA518)&nbsp;
-![Laravel](https://img.shields.io/badge/-LARAVEL-05122A?style=flat&logo=Laravel&logoColor=A8B9CC)&nbsp;
-![Php](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP%2B%2B&logoColor=00599C)&nbsp;
+![Vue](https://img.shields.io/badge/-vuedotjs?style=flat&logo=vuedotjs&logoColor=FFA518&label=Vue.js)&nbsp;
+![Laravel](https://img.shields.io/badge/-LARAVEL-05122A?style=flat-square&logo=Laravel&logoColor=A8B9CC)&nbsp;
+![Php](https://img.shields.io/badge/-php?style=flat-square&logo=php&label=PHP)&nbsp;
 ![Postman)](https://img.shields.io/badge/-POSTMAN-05122A?style=flat&logo=POSTMAN&logoColor=276DC3)\
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![React](https://img.shields.io/badge/-nextdotjs?style=flat&logo=nextdotjs)&nbsp;
+![React](https://img.shields.io/badge/-nextjs?style=flat-square&logo=nextdotjs&label=NextJs)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![tailwindcss](https://img.shields.io/badge/-tailwindcss?style=flat-square&logo=tailwindcss&label=tailwindcss)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express&logoColor=2C2255)\
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![Visual Studio Code](https://img.shields.io/badge/-githubcopilot?style=flat-square&logo=githubcopilot&logoColor=007ACC&label=VsCode)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express&logoColor=2C2255)
 
 
 ### 🤝🏻 &nbsp;Connect with Me
@@ -44,3 +45,4 @@ Full stack developer with +4 years of experience of building REST APIs using Lar
 <a href="https://instagram.com/abdessamadbettal"><img src="https://img.shields.io/badge/-@abdessamadbettal-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 </p>
+<!-- https://simpleicons.org/ -->
