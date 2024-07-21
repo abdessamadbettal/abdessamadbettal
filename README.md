@@ -1,5 +1,5 @@
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Abdessamad</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Abdessamad Bettal</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Abdessamad -->
 
@@ -23,7 +23,7 @@ Full stack developer with +4 years of experience of building REST APIs using Lar
 ![Php](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP%2B%2B&logoColor=00599C)&nbsp;
 ![Postman)](https://img.shields.io/badge/-POSTMAN-05122A?style=flat&logo=POSTMAN&logoColor=276DC3)\
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Nextjs](https://img.shields.io/badge/-Nextjs-05122A%3Fstyle%3Dflat%26logo%3Dnextjs)&nbsp;
+![React](https://img.shields.io/badge/-nextdotjs?style=flat&logo=nextdotjs)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
