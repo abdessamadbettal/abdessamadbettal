@@ -5,7 +5,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-Full stack developer with 3+ years of experience of building REST APIs using Laravel framework with MySQL database, component-based frameworks/libraries React,Vue.
+Full stack developer with +4 years of experience of building REST APIs using Laravel framework with MySQL & MongoDB, component-based frameworks/libraries React & Next.js, Vue.
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I have successfully graduated from Youcode - Université Mohammed VI Polytechnique.\
@@ -23,6 +23,7 @@ Full stack developer with 3+ years of experience of building REST APIs using Lar
 ![Php](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP%2B%2B&logoColor=00599C)&nbsp;
 ![Postman)](https://img.shields.io/badge/-POSTMAN-05122A?style=flat&logo=POSTMAN&logoColor=276DC3)\
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Nextjs](https://img.shields.io/badge/-Nextjs-05122A%3Fstyle%3Dflat%26logo%3Dnextjs)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -32,8 +33,6 @@ Full stack developer with 3+ years of experience of building REST APIs using Lar
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express&logoColor=2C2255)\
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 
 ### 🤝🏻 &nbsp;Connect with Me
