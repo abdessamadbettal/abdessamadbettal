@@ -37,7 +37,6 @@ I’m a passionate **Full Stack Developer** with over **4 years of experience** 
 ### 📫 How to reach me
 
 - **LinkedIn**: [Abdessamad Bettal](https://www.linkedin.com/in/abdessamadbettal)
-- **Twitter**: [@your_twitter_handle](https://twitter.com/your_twitter_handle) *(if applicable)*
 - **Email**: [abdessamadbattal@gmail.com](mailto:abdessamadbattal@gmail.com)
 
 ---
