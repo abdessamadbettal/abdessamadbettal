@@ -1,17 +1,59 @@
+<img src="./assets/Hand%20Wave.gif" alt="Hand Wave" width="40" align="left"/><h2>Hey there! I'm Abdessamad Bettal</h2>
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Abdessamad Bettal</h2>
+### 👨🏻‍💻 About Me
 
-<!-- ## 👋 &nbsp;Hey there! I'm Abdessamad -->
+I’m a passionate **Full Stack Developer** with over **4 years of experience** in building robust and scalable web applications. My expertise lies in developing **REST APIs** using the **Laravel** framework, combined with **MySQL** and **MongoDB** for database management. I also specialize in modern JavaScript frameworks/libraries such as **React**, **Next.js**, and **Vue.js** for creating dynamic and user-friendly interfaces.
 
-### 👨🏻‍💻 &nbsp;About Me
+- 💡 &nbsp;I'm always eager to explore new technologies and develop innovative software solutions.
+- 🎓 &nbsp;Graduated from [Youcode - Université Mohammed VI Polytechnique](https://youcode.ma), where I honed my skills in web and mobile development.
+- 🌱 &nbsp;Currently diving deeper into **Systems Design** and **Cloud Architecture** to enhance my expertise.
+- 🛠️ &nbsp;Actively contributing to open-source projects and working on freelance projects that solve real-world problems.
+- 💬 &nbsp;Feel free to reach out to me for **pro bono consulting**, **volunteering**, or just to have an engaging tech conversation!
+- ✉️ &nbsp;You can shoot me an email at **[abdessamadbattal@gmail.com](mailto:abdessamadbattal@gmail.com)** — I’ll try to respond as soon as I can.
 
-Full stack developer with +4 years of experience of building REST APIs using Laravel framework with MySQL & MongoDB, component-based frameworks/libraries React & Next.js, Vue.
+---
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I have successfully graduated from Youcode - Université Mohammed VI Polytechnique.\
-🌱 &nbsp;I'm on track for learning more about Systems Design, and Cloud Architecture.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at abdessamadbattal@gmail.com! I'll try to respond as soon as I can.\
+### 🛠️ Tech Stack
+
+- **Languages:** PHP, JavaScript, TypeScript, HTML, CSS
+- **Front-End:** React.js, Next.js, Vue.js, Tailwind CSS, Bootstrap
+- **Back-End:** Laravel, Node.js, Express.js, Nest.js
+- **Databases:** MySQL, MongoDB, PostgreSQL, Redis
+- **DevOps:** Docker, CI/CD, AWS, GitHub Actions, GitLab CI
+- **Tools:** VS Code, Postman, Figma, Jira, Git, GitHub, GitLab
+
+---
+
+### 🚀 Projects
+
+- **[GrooveBlog](https://groove.cm/blogs)**: Contributed to developing and maintaining GrooveBlog, focusing on PHP, Laravel, and Vue.js.
+- **[GrooveMail](https://groove.cm/mail)**: Contributed to developing and maintaining GrooveMail, focusing on PHP, Laravel, and Vue.js.
+- **[Jami3a Platform](https://jami3a.com/)**: A global educational document-sharing platform for students and teachers with secure OAuth authentication and advanced search capabilities using Algolia.
+- **[MyRestAi](#)**: Developed a real estate management application, upgrading the frontend architecture with Vue.js 3 and Tailwind CSS.
+
+---
+
+
+### 📫 How to reach me
+
+- **LinkedIn**: [Abdessamad Bettal](https://www.linkedin.com/in/abdessamadbettal)
+- **Twitter**: [@your_twitter_handle](https://twitter.com/your_twitter_handle) *(if applicable)*
+- **Email**: [abdessamadbattal@gmail.com](mailto:abdessamadbattal@gmail.com)
+
+---
+
+### 🌟 Highlights
+
+- **Top Skills:** Full-Stack Development, RESTful APIs, Laravel, React.js, Vue.js
+- **Interests:** Cloud Computing, Open Source Contribution, Systems Design
+
+---
+
+### 🎯 Goals
+
+- Continue to grow as a developer by learning **advanced cloud architecture** and **system design**.
+- Contribute to more open-source projects and help the community.
+
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
