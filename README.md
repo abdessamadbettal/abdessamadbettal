@@ -55,7 +55,7 @@ I’m a passionate **Full Stack Developer** with over **4 years of experience** 
 ![Php](https://img.shields.io/badge/-php?style=flat-square&logo=php&label=PHP)&nbsp;
 ![Postman)](https://img.shields.io/badge/-POSTMAN-05122A?style=flat&logo=POSTMAN&logoColor=276DC3)\
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![React](https://img.shields.io/badge/-nextjs?style=flat-square&logo=nextdotjs&label=NextJs)&nbsp;
+![Next](https://img.shields.io/badge/-nextjs?style=flat-square&logo=nextdotjs&label=NextJs)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![tailwindcss](https://img.shields.io/badge/-tailwindcss?style=flat-square&logo=tailwindcss&label=tailwindcss)\
@@ -74,7 +74,7 @@ I’m a passionate **Full Stack Developer** with over **4 years of experience** 
 <a href="https://www.abdessamad.me"><img src="https://img.shields.io/badge/-abdessamad.me-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/abdessamadbettal"><img src="https://img.shields.io/badge/Abdessamad%20Bettal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:abdessamadbattal@gmail.com"><img src="https://img.shields.io/badge/-abdessamadbattal@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://github.com/abdessamadbettal"><img src="https://img.shields.io/badge/-Abdessamad%20Bettal-D14236?style=flat&logo=Github&logoColor=Black"/></a>
+<a href="https://github.com/abdessamadbettal"><img src="https://img.shields.io/badge/-Abdessamad%20Bettal-276DC3?style=flat&logo=Github&logoColor=Black"/></a>
 
 </p>
 <!-- https://simpleicons.org/ -->
