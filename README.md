@@ -24,15 +24,6 @@ I’m a passionate **Full Stack Developer** with over **4 years of experience** 
 
 ---
 
-### 🚀 Projects
-
-- **[GrooveBlog](https://groove.cm/blogs)**: Contributed to developing and maintaining GrooveBlog, focusing on PHP, Laravel, and Vue.js.
-- **[GrooveMail](https://groove.cm/mail)**: Contributed to developing and maintaining GrooveMail, focusing on PHP, Laravel, and Vue.js.
-- **[Jami3a Platform](https://jami3a.com/)**: A global educational document-sharing platform for students and teachers with secure OAuth authentication and advanced search capabilities using Algolia.
-- **[MyRestAi](#)**: Developed a real estate management application, upgrading the frontend architecture with Vue.js 3 and Tailwind CSS.
-
----
-
 
 ### 📫 How to reach me
 
@@ -83,7 +74,7 @@ I’m a passionate **Full Stack Developer** with over **4 years of experience** 
 <a href="https://www.abdessamad.me"><img src="https://img.shields.io/badge/-abdessamad.me-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/abdessamadbettal"><img src="https://img.shields.io/badge/Abdessamad%20Bettal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:abdessamadbattal@gmail.com"><img src="https://img.shields.io/badge/-abdessamadbattal@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/abdessamadbettal"><img src="https://img.shields.io/badge/-@abdessamadbettal-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://github.com/abdessamadbettal"><img src="https://img.shields.io/badge/-Abdessamad%20Bettal-D14236?style=flat&logo=Github&logoColor=Black"/></a>
 
 </p>
 <!-- https://simpleicons.org/ -->
