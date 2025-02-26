@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 About Me
 
-I’m a passionate **Full Stack Developer** with over **4 years of experience** in building robust and scalable web applications. My expertise lies in developing **REST APIs** using the **Laravel** framework, combined with **MySQL** and **MongoDB** for database management. I also specialize in modern JavaScript frameworks/libraries such as **React**, **Next.js**, and **Vue.js** for creating dynamic and user-friendly interfaces.
+I’m a passionate **Full Stack Developer** with over **5 years of experience** in building robust and scalable web applications. My expertise lies in developing **REST APIs** using the **Laravel** framework, combined with **MySQL** and **MongoDB** for database management. I also specialize in modern JavaScript frameworks/libraries such as **React**, **Next.js**, and **Vue.js** for creating dynamic and user-friendly interfaces.
 
 - 💡 &nbsp;I'm always eager to explore new technologies and develop innovative software solutions.
 - 🎓 &nbsp;Graduated from [Youcode - Université Mohammed VI Polytechnique](https://youcode.ma), where I honed my skills in web and mobile development.
